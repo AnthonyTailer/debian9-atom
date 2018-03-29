@@ -12,4 +12,4 @@ Esta ISO remasterizada contém uma uma instalação limpa do AtoM 2.4.0 rodando 
 * Link para Download do .ISO no Google Drive:
 [Debian9-AtoM](https://drive.google.com/file/d/11NzajvIfkQgEj4rkowDXia6GEWnTZXx3/view?usp=sharing)
 
-![AtoM](https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiGzoOvtZDaAhVJQZAKHZ7VDVcQjRx6BAgAEAU&url=https%3A%2F%2Flibrary.ualberta.ca%2Fdigital-initiatives%2Fatom&psig=AOvVaw0PBtzv4jI9osJIHeW41bR4&ust=1522374570271390)   
+![AtoM](https://www.artefactual.com/wp-content/uploads/2013/10/atom-1024x354.png)   
